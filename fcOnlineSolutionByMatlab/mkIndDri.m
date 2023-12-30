@@ -1,0 +1,12 @@
+driLongPassTry = dribbleRankResult(:, 1);
+driThroughPassTry = dribbleRankResult(:, 2);
+driShortPassTry = dribbleRankResult(:, 3);
+% driDirrble = dribbleRankResult(:, 4);
+driShootOutPenalty = dribbleRankResult(:, 5);
+driPassTry = dribbleRankResult(:, 6);
+driPossession = dribbleRankResult(:, 7);
+driShootTotal = dribbleRankResult(:, 8);
+driGoalTotal = dribbleRankResult(:, 9);
+driHeadingShoot = dribbleRankResult(:, 10);
+driShootInPenalty = dribbleRankResult(:, 11);
+driTackleTry = dribbleRankResult(:, 12);

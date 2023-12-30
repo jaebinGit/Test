@@ -1,0 +1,12 @@
+midLongPassTry = midRangeShootRankResult(:, 1);
+midThroughPassTry = midRangeShootRankResult(:, 2);
+midShortPassTry = midRangeShootRankResult(:, 3);
+midDirrble = midRangeShootRankResult(:, 4);
+% midShootOutPenalty = midRangeShootRankResult(:, 5);
+midPassTry = midRangeShootRankResult(:, 6);
+midPossession = midRangeShootRankResult(:, 7);
+midShootTotal = midRangeShootRankResult(:, 8);
+midGoalTotal = midRangeShootRankResult(:, 9);
+midHeadingShoot = midRangeShootRankResult(:, 10);
+midShootInPenalty = midRangeShootRankResult(:, 11);
+midTackleTry = midRangeShootRankResult(:, 12);
